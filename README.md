@@ -1,1 +1,1 @@
-# Covid19-Pneumonia-Detection
+# As we know, detecting covid19 via swap is not free. There will be patients who reach hospitals when they find anything suspicious. So, using deep learning people who have their chest x rayed can easily find if they are suffering from this deadly virus. NOTE: In any means, this should not be used as a factor to determine covid19. However, the model used here gives more weight to false positive than false negative that makes this model useful for these cases.
